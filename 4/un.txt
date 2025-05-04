@@ -1,0 +1,6 @@
+javac *.java
+start rmiregistry
+java HotelBookingServer
+java HotelBookingClient
+
+
